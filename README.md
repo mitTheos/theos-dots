@@ -9,3 +9,5 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/mitTheos/theos-dots?style=for-the-badge&color=%239ba5bd)
 
 </div>
+
+These are all my dotfiles for EndeavourOS Hyprland. I started of with the dotfiles from [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots/tree/main) and have made my own configurations and tweaks to build up on their config and add my own twist.
