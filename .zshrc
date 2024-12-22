@@ -37,3 +37,10 @@ source /usr/share/nvm/init-nvm.sh
 source /usr/share/nvm/init-nvm.sh
 
 eval "$(zoxide init zsh)"
+
+# bun completions
+[ -s "/home/timk/.bun/_bun" ] && source "/home/timk/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"

@@ -15,10 +15,12 @@
 "modules-left": [
 	"custom/menu",
 	"custom/separator#blank",
-	"tray",
-	"network#speed",
+	"cpu",
+	"custom/separator#blank",
+	"memory",
 	"custom/separator#blank",
 	"custom/weather",
+	"mpris",
 ],
 
 "modules-center": [
@@ -30,13 +32,10 @@
 ],
 
 "modules-right": [
-	"clock",
-	"custom/updater",
+    "clock",
+	"clock#2",
 	"pulseaudio",
-	"custom/separator#blank",
-	"cpu",
-	"custom/separator#blank",
-	"memory",
+	"custom/updater",
 	"custom/separator#blank",
 	"custom/power",
 	],
